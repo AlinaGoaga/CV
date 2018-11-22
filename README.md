@@ -55,18 +55,18 @@ Academy of Economic Studies, Bucharest (2005 to 2008)
 
 **Research Now** (June 2011 to November 2018)    
 
-- Manager, Client Services 
+- Manager, Client Services:
 Line management of operations team with 8 members in different locations, ensuring high quality delivery of online market research studies. Responsible for delivery on accounts worth around 2 million GBP anually.
 
-- Project Manager 
+- Project Manager:
 Lead a mix of projects for a large variety of clients: from market research agencies and consultancies to media agencies and one-man-bands whilst keeping client satisfaction high and ensuring resources are used efficiently. 
 
 **Ipsos Interactive Services** (July 2007 to May 2011)
 
-- Project Manager
+- Project Manager:
 Managed full service projects focusing primarily on advertising and concept testing for a variety of industries: FMCG, Banking, Automotive, Pharmaceuticals. Involved in the development and piloting of new products, working closely with the New Product Development team.
 
-- Data Analyst
+- Data Analyst:
 In charge of data processing and logical control of questionnaires for online research projects (including syntaxes for database checking in SPSS and deliverables in SPSS, Quantum, Excel). 
 
 ## Personal interests
