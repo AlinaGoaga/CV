@@ -33,38 +33,34 @@ Fast, independent learner. I've always taken initiative of my own development. I
 Great collaborator. Already pairing with my cohort and have collaborated with one of the colleagues on github for the fizzbuzz exercise. I think that helping others and building strong teams is at the core of success and one of the best ways to not only diseminate knowledge but also strengthen one's knowledge as well.
 
 - OOP, TDD, MVC, DDD
-
 - Agile/XP
-
 - Ruby, Rails, JavaScript
-
 - RSpec, Jasmine
 
 #### University / College 
 
-*Master's Degree in Marketing Management* 
+- Master's Degree in Marketing Management
 Academy of Economic Studies, Bucharest (2008 to 2010) 
 
-*Bachelor's Degree in Marketing (Graduated as Valedictorian)*
+- Bachelor's Degree in Marketing (Graduated as Valedictorian)
 Academy of Economic Studies, Bucharest (2005 to 2008) 
 
 #### Any other qualifications
 
-*Agile Foundation and Practitioner Certificate*
-
-*MRS Certificate in Market & Social Research*
+- Agile Foundation and Practitioner Certificate*
+- MRS Certificate in Market & Social Research*
 
 ## Experience
 
 **Research Now** (June 2011 to November 2018)    
 
-*Manager, Client Services*
-*Project Manager*
+- Manager, Client Services
+- Project Manager 
 
 **Ipsos Interactive Services** (July 2007 to May 2011)
 
-*Project Manager*
-*Data Analyst*
+- Project Manager
+- Data Analyst
 
 ## Personal interests
 
