@@ -69,6 +69,13 @@ Managed full service projects focusing primarily on advertising and concept test
 - Data Analyst:
 In charge of data processing and logical control of questionnaires for online research projects (including syntaxes for database checking in SPSS and deliverables in SPSS, Quantum, Excel). 
 
+## Languages
+
+- Romanian (native)
+- English (fluent)
+- Spanish (intermediate) 
+- Italian (beginner)
+- Japanese (beginner)
 ## Personal interests
 
 - Trekking 
