@@ -22,15 +22,15 @@ I strongly believe that we're there is a will, there is a way. I stay focused on
 
 As a project manager, I had to interact with technical teams all the time so I had to work out the balance between staying on budget and being on time but also understanding my collegues' side, the complexity of the technical challenges and being able to translate that back to the client and negociate on specifications.
 
+#### Fast, independent learner
+
+I've always taken initiative of my own development. I've had to be very resourceful in the positions I've held, since it was my job to make things happen when dealing with non standard situations (projects gone wrong, delayed etc). Throughout my journey in coding I have attended Codebar and Makers events, completed online courses, read documentation, bounced ideas off other developers and put everything together to help me solve the problems that I faced during the learning process.
+
 ## Education
 
 #### Makers Academy (November 2018 to present)
 
-Curious and passionate about code. Since August when I knew I'd be joining Makers, I have constinuously worked on my buildng my Ruby skills by completing challenges on codewards, have finished the Ruby, HTML, CSS, Rails and SQL courses on Codecademy, built a few applications in Rails following tutorials on Udemy and have also built a mini-website in Rails with no guidance. I wanted to be as prepared as possible for when the precourse starts.
-
-Fast, independent learner. I've always taken initiative of my own development. I've had to be very resourceful in the positions I've held, since it was my job to make things happen when dealing with non standard situations (projects gone wrong, delayed etc). Throughout my journey in coding I have attended codebar and makers events, completed online courses, read documentation, bounced ideas off other developers and put everything together to help me solve the problems that I faced during the learning process.
-
-Great collaborator. Already pairing with my cohort and have collaborated with one of the colleagues on github for the fizzbuzz exercise. I think that helping others and building strong teams is at the core of success and one of the best ways to not only diseminate knowledge but also strengthen one's knowledge as well.
+Intense 16-week software development bootcamp, focusing on teaching best coding practices.
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -76,8 +76,9 @@ In charge of data processing and logical control of questionnaires for online re
 - Spanish (intermediate) 
 - Italian (beginner)
 - Japanese (beginner)
+
 ## Personal interests
 
-- Trekking 
+- Trekking
 - Japanese culture
 - Reading 
