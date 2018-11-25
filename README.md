@@ -1,7 +1,6 @@
 ## Alina Goaga
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Languages](#languages)
-|[Personal interests](#personal interests)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Languages](#languages) | [Personal interests](#personal_interests)
 
 After twelve years in online market research, continuously working on improving my soft skills, analysing data, managing research projects and leading teams, I have decided to step into the fascinating world of tech so I have joined Makers.
 
@@ -87,7 +86,7 @@ In charge of data processing and logical control of questionnaires for online re
 - Italian (beginner)
 - Japanese (beginner)
 
-<a name="personal interests"></a>
+<a name="personal_interests"></a>
 ## Personal interests
 
 - Trekking
