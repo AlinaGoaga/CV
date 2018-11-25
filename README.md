@@ -1,11 +1,15 @@
 ## Alina Goaga
 
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Languages](#languages)
+|[Personal interests](#personal interests)
+
 After twelve years in online market research, continuously working on improving my soft skills, analysing data, managing research projects and leading teams, I have decided to step into the fascinating world of tech so I have joined Makers.
 
 I have always been passionate about math and science and have enjoyed exploring how things work. I also like building things myself, always learn and be in touch with what's new. I thrive in environments which focus on team work, growth, challenging the status quo and improving people's lifes. 
 
 Linkedin profile: https://www.linkedin.com/in/alina-goaga-2a6618104/
 
+<a name="skills"></a>
 ## Skills
 
 #### Tech Skills : Ruby, Rails, HTML, CSS, JavaScript, PostgreSQL
@@ -26,6 +30,10 @@ As a project manager, I had to interact with technical teams all the time so I h
 
 I've always taken initiative of my own development. I've had to be very resourceful in the positions I've held, since it was my job to make things happen when dealing with non standard situations (projects gone wrong, delayed etc). Throughout my journey in coding I have attended Codebar and Makers events, completed online courses, read documentation, bounced ideas off other developers and put everything together to help me solve the problems that I faced during the learning process.
 
+<a name="projects"></a>
+## Projects 
+
+<a name="education"></a>
 ## Education
 
 #### Makers Academy (November 2018 to present)
@@ -51,6 +59,7 @@ Academy of Economic Studies, Bucharest (2005 to 2008)
 
 - MRS Certificate in Market & Social Research
 
+<a name="experience"></a>
 ## Experience
 
 **Research Now** (June 2011 to November 2018)    
@@ -69,6 +78,7 @@ Managed full service projects focusing primarily on advertising and concept test
 - Data Analyst:
 In charge of data processing and logical control of questionnaires for online research projects (including syntaxes for database checking in SPSS and deliverables in SPSS, Quantum, Excel). 
 
+<a name="languages"></a>
 ## Languages
 
 - Romanian (native)
@@ -77,6 +87,7 @@ In charge of data processing and logical control of questionnaires for online re
 - Italian (beginner)
 - Japanese (beginner)
 
+<a name="personal interests"></a>
 ## Personal interests
 
 - Trekking
