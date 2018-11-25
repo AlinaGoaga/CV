@@ -32,6 +32,10 @@ I've always taken initiative of my own development. I've had to be very resource
 <a name="projects"></a>
 ## Projects 
 
+|Project | Description | Tech Used | 
+|--------|-------------|-----------|
+|[File Storage Site](https://github.com/AlinaGoaga/File-Storage-Site-Udemy-practice)| Site to store documents following Udemy tutorial| Haml, SCSS, Devise, Simple-form, Bootstrap
+
 <a name="education"></a>
 ## Education
 
