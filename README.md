@@ -4,7 +4,7 @@
 
 After twelve years in online market research, continuously working on improving my soft skills, analysing data, managing research projects and leading teams, I have decided to step into the fascinating world of tech so I have joined Makers.
 
-I have always been passionate about math and science and have enjoyed exploring how things work. I also like building things myself, always learn and be in touch with what's new. I thrive in environments which focus on team work, growth, challenging the status quo and improving people's lifes. 
+I have always been passionate about math and science and have enjoyed exploring how things work. I also like building things myself, continuously learn and be in touch with what's new. I thrive in environments which focus on team work, growth, challenging the status quo and improving people's lifes. 
 
 Linkedin profile: https://www.linkedin.com/in/alina-goaga-2a6618104/
 
@@ -15,7 +15,7 @@ Linkedin profile: https://www.linkedin.com/in/alina-goaga-2a6618104/
 
 #### Communication
 
-This has been at the core of my job both as a project manager and as a team lead. Being able to listen and understand, clearly deliver messages and adjust these to my audience have always been key. Whether it was coaching new PMs on their client services skills, liaising with upper management or discussing project specifications with the programming team, I've had to wear different hats and make sure all stakeholders are considered. This has led to repeat business with clients being delighted by the service provided but also to a healthy team morale and an atmosphere of support and collaboration in the teams I've managed.
+This has been at the core of my job both as a project manager and as a team lead. Being able to listen and understand, clearly deliver messages and adjust these to my audience have always been key. Whether it was coaching new PMs on their client services skills, liaising with upper management or discussing project specifications with the programming team, I've had to wear different hats and make sure all stakeholders' needs are met. This has led to repeat business with clients being delighted by the service provided but also to a healthy team morale and an atmosphere of support and collaboration in the teams I've managed.
 
 #### Problem solving
 
@@ -23,7 +23,7 @@ I strongly believe that we're there is a will, there is a way. I stay focused on
 
 #### Dual perspective
 
-As a project manager, I worked closely with technical teams so had to find the balance between staying on budget and being on time, whilst at the same time understanding my colleagues' point of view, the complexity of the technical challenges and being able to translate that back to the client and negociate on specifications.
+As a project manager, I worked closely with technical teams so had to find the balance between staying on budget and being on time, whilst at the same time understanding my colleagues' point of view, the complexity of the technical challenges they faced and being able to translate that back to the client and negociate on specifications.
 
 #### Fast, independent learner
 
@@ -35,7 +35,7 @@ I've always taken initiative of my own development. I've had to be very resource
 |Project | Description | Tech Used | 
 |--------|-------------|-----------|
 |[MakersBNB](https://github.com/AlinaGoaga/MakersBNB)| AirBNB clone| Sinatra, Rspec, Capybara, Bootstrap
-|[News App](https://github.com/AlinaGoaga/NewsSummary)| Single Page App using the Guardian and Aylien APIs to display headlines and summarize articles| HTML, Boostrap, Vanilla Javascript, custom built framework
+|[News App](https://github.com/AlinaGoaga/NewsSummary)| Single Page App using the Guardian and Aylien APIs to display headlines and summarize articles| HTML, Boostrap, Vanilla Javascript, [custom built framework](https://github.com/AlinaGoaga/JS_TestingFramework).
 |[File Storage Site](https://github.com/AlinaGoaga/File-Storage-Site-Udemy-practice)| Site to store documents following Udemy tutorial| Haml, SCSS, Devise, Simple-form, Bootstrap
 
 <a name="education"></a>
