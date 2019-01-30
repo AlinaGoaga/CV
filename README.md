@@ -23,7 +23,7 @@ I strongly believe that we're there is a will, there is a way. I stay focused on
 
 #### Dual perspective
 
-As a project manager, I had to interact with technical teams all the time so I had to work out the balance between staying on budget and being on time but also understanding my collegues' side, the complexity of the technical challenges and being able to translate that back to the client and negociate on specifications.
+As a project manager, I worked closely with technical teams so had to find the balance between staying on budget and being on time, whilst at the same time understanding my colleagues' point of view, the complexity of the technical challenges and being able to translate that back to the client and negociate on specifications.
 
 #### Fast, independent learner
 
@@ -34,6 +34,7 @@ I've always taken initiative of my own development. I've had to be very resource
 
 |Project | Description | Tech Used | 
 |--------|-------------|-----------|
+|[MakersBNB](https://github.com/AlinaGoaga/MakersBNB)| AirBNB clone| Sinatra, Rspec, Capybara, Bootstrap
 |[File Storage Site](https://github.com/AlinaGoaga/File-Storage-Site-Udemy-practice)| Site to store documents following Udemy tutorial| Haml, SCSS, Devise, Simple-form, Bootstrap
 
 <a name="education"></a>
@@ -71,7 +72,7 @@ Academy of Economic Studies, Bucharest (2005 to 2008)
 Line management of operations team with 8 members in different locations, ensuring high quality delivery of online market research studies. Responsible for delivery on accounts worth around 2 million GBP anually.
 
 - Project Manager:
-Lead a mix of projects for a large variety of clients: from market research agencies and consultancies to media agencies and one-man-bands whilst keeping client satisfaction high and ensuring resources are used efficiently. 
+Led a mix of projects for a large variety of clients: from market research agencies and consultancies to media agencies and one-man-bands whilst keeping client satisfaction high and ensuring resources are used efficiently. 
 
 **Ipsos Interactive Services** (July 2007 to May 2011)
 
