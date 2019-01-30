@@ -35,6 +35,7 @@ I've always taken initiative of my own development. I've had to be very resource
 |Project | Description | Tech Used | 
 |--------|-------------|-----------|
 |[MakersBNB](https://github.com/AlinaGoaga/MakersBNB)| AirBNB clone| Sinatra, Rspec, Capybara, Bootstrap
+|[News App](https://github.com/AlinaGoaga/NewsSummary)| Single Page App using the Guardian and Aylien APIs to display headlines and summarize articles| HTML, Boostrap, Vanilla Javascript, custom built framework
 |[File Storage Site](https://github.com/AlinaGoaga/File-Storage-Site-Udemy-practice)| Site to store documents following Udemy tutorial| Haml, SCSS, Devise, Simple-form, Bootstrap
 
 <a name="education"></a>
@@ -44,10 +45,11 @@ I've always taken initiative of my own development. I've had to be very resource
 
 Intense 16-week software development bootcamp, focusing on teaching best coding practices.
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Focused on OO design in Ruby and JavaScript using Sinatra, Rails and React as frameworks.
+- TDD approach to building software across RSpec, Capybara and Jasmine. 
+- Building apps using REST principles
+- Team engeniering projects following Agile practices.
+- Daily pair programming and collaboration via GitHub
 
 #### University / College 
 
