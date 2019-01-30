@@ -1,6 +1,6 @@
 ## Alina Goaga
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Languages](#languages) | [Personal interests](#personal_interests)|[Linkedin profile](https://www.linkedin.com/in/alina-goaga-2a6618104/)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Languages](#languages) | [Personal interests](#personal_interests) | [Linkedin profile](https://www.linkedin.com/in/alina-goaga-2a6618104/)
 
 After twelve years in online market research, continuously working on improving my soft skills, analysing data, managing research projects and leading teams, I have decided to step into the fascinating world of tech so I have joined Makers.
 
