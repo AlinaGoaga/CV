@@ -4,7 +4,7 @@
 
 After twelve years in online market research, continuously working on improving my soft skills, analysing data, managing research projects and leading teams, I have decided to step into the fascinating world of tech so I have joined Makers.
 
-I have always been passionate about math and science and have enjoyed exploring how things work. I also like building things myself, continuously learn and be in touch with what's new. I thrive in environments which focus on team work, growth, challenging the status quo and improving people's lifes. 
+I have always been passionate about math and science and have enjoyed exploring how things work. I also like building things myself, learn new skills and be in touch with what's new. I thrive in environments which focus on team work, growth, challenging the status quo and improving people's lifes. 
 
 <a name="skills"></a>
 ## Skills
