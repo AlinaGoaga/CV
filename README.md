@@ -32,7 +32,6 @@ I've always taken initiative of my own development. I've had to be very resource
 |--------|-------------|-----------|
 |[MakersBNB](https://github.com/AlinaGoaga/MakersBNB)| AirBNB clone| Sinatra, Rspec, Capybara, Bootstrap
 |[News App](https://github.com/AlinaGoaga/NewsSummary)| Single Page App using the Guardian and Aylien APIs to display headlines and summarize articles| HTML, Boostrap, Vanilla Javascript, [custom built framework](https://github.com/AlinaGoaga/JS_TestingFramework).
-|[File Storage Site](https://github.com/AlinaGoaga/File-Storage-Site-Udemy-practice)| Site to store documents following Udemy tutorial| Haml, SCSS, Devise, Simple-form, Bootstrap
 
 <a name="education"></a>
 ## Education
