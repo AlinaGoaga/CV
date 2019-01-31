@@ -9,8 +9,6 @@ I have always been passionate about math and science and have enjoyed exploring 
 <a name="skills"></a>
 ## Skills
 
-#### Tech Skills : Ruby, Rails, HTML, CSS, JavaScript, PostgreSQL
-
 #### Communication
 
 This has been at the core of my job both as a project manager and as a team lead. Being able to listen and understand, clearly deliver messages and adjust these to my audience have always been key. Whether it was coaching new PMs on their client services skills, liaising with upper management or discussing project specifications with the programming team, I've had to wear different hats and make sure all stakeholders' needs are met. This has led to repeat business with clients being delighted by the service provided but also to a healthy team morale and an atmosphere of support and collaboration in the teams I've managed.
