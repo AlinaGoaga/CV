@@ -43,7 +43,7 @@ Intense 16-week software development bootcamp, focusing on teaching best coding 
 - Focused on OO design in Ruby and JavaScript using Sinatra, Rails and React as frameworks.
 - TDD approach to building software across RSpec, Capybara and Jasmine. 
 - Building apps using REST principles
-- Team engeniering projects following Agile practices.
+- Team engineering projects following Agile practices.
 - Daily pair programming and collaboration via GitHub
 
 #### University / College 
