@@ -34,7 +34,8 @@ I've always taken initiative of my own development. I've had to be very resource
 |--------|-------------|-----------|
 |[MakersBNB](https://github.com/AlinaGoaga/MakersBNB)| AirBNB clone| Sinatra, Rspec, Capybara, Bootstrap
 |[News App](https://github.com/AlinaGoaga/NewsSummary)| Single Page App using the Guardian and Aylien APIs to display headlines and summarize articles| HTML, Boostrap, Vanilla Javascript, [custom built framework](https://github.com/AlinaGoaga/JS_TestingFramework).
-|[Chitter](https://github.com/AlinaGoaga/Chitter_TwitterClone)| Twitter clone| Rails, Bootstrap, Devise, Simple Form
+|[Chitter](https://github.com/AlinaGoaga/Chitter_TwitterClone)| Twitter clone| Rails, HTML, Bootstrap, Devise, Simple Form
+|[Bowling Scorecard](https://github.com/AlinaGoaga/BowlingScorecard)| App which calculates the score for a bowling game (including spares and strikes)| Vanilla Javascript, Jasmine
 
 <a name="education"></a>
 ## Education
