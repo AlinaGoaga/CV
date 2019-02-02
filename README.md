@@ -93,5 +93,5 @@ In charge of data processing and logical control of questionnaires for online re
 ## Personal interests
 
 - Trekking: from the majestic peaks of Nepal to the green landscapes of Hampstead Heath in summer, as long as I'm in nature I'm happy
-- Japanese culture: minimalism, delicious food, amazing tech - need I say more?
+- Japan and japanese culture: minimalism, delicious food, amazing tech - need I say more?
 - Aviation: still dreaming of getting that private pilot licence, for now happy to have made it back on solid groud safe and sound after my lessons on a Cessna 
