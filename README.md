@@ -2,9 +2,9 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Languages](#languages) | [Personal interests](#personal_interests) | [Linkedin profile](https://www.linkedin.com/in/alina-goaga-2a6618104/)
 
-After twelve years in online market research, continuously working on improving my soft skills, analysing data, managing research projects and leading teams, I have decided to step into the fascinating world of tech so I have joined Makers.
+Junior full-stack developer with twelve years experience in people and project management, embarking on a new adventure into the tech wold. Most excited when using technology to create new experiences, make lives easier and building something cool.
 
-I have always been passionate about math and science and have enjoyed exploring how things work. I also like building things myself, learn new skills and be in touch with what's new. I thrive in environments which focus on team work, growth, challenging the status quo and improving people's lifes. 
+I have always been passionate about all things science and have enjoyed exploring how they work. I thrive in environments which focus on team work, growth and challenging the status quo. 
 
 <a name="skills"></a>
 ## Skills
@@ -45,6 +45,7 @@ Intense 16-week software development bootcamp, focusing on teaching best coding 
 - Building apps using REST principles
 - Team engineering projects following Agile practices.
 - Daily pair programming and collaboration via GitHub
+- Continuous integration with Travis CI and deployment to Heroku
 
 #### University / College 
 
@@ -91,6 +92,6 @@ In charge of data processing and logical control of questionnaires for online re
 <a name="personal_interests"></a>
 ## Personal interests
 
-- Trekking
-- Japanese culture
-- Reading 
+- Trekking: from the majestic peaks of Nepal to the green landscapes of Hampstead Heath in summer, as long as I'm in nature I'm happy
+- Japanese culture: minimalism, delicious food, amazing tech - need I say more?
+- Aviation: still dreaming of getting that private pilot licence, for now happy to have made it back on solid groud safe and sound after my lessons on a Cessna 
