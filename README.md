@@ -2,9 +2,11 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Languages](#languages) | [Personal interests](#personal_interests) | [Linkedin profile](https://www.linkedin.com/in/alina-goaga-2a6618104/)
 
-Junior full-stack developer with twelve years experience in people and project management, embarking on a new adventure into the tech wold. Most excited when using technology to create new experiences, make lives easier and building something cool.
+Junior full-stack developer with twelve years experience in people and project management, embarking on a new adventure into the tech wold. Excited about using technology to create new experiences and make lives easier.
 
-I have always been passionate about all things science and have enjoyed exploring how they work. I thrive in environments which focus on team work, growth and challenging the status quo. 
+I have always been passionate about all things science and have enjoyed exploring how they work. 
+
+I thrive in environments which focus on team work, growth and challenging the status quo. 
 
 <a name="skills"></a>
 ## Skills
