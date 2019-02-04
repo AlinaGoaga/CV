@@ -88,8 +88,6 @@ In charge of data processing and logical control of questionnaires for online re
 - Romanian (native)
 - English (fluent)
 - Spanish (intermediate) 
-- Italian (beginner)
-- Japanese (beginner)
 
 <a name="personal_interests"></a>
 ## Personal interests
