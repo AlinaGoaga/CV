@@ -42,7 +42,7 @@ I've always taken initiative of my own development. I've had to be very resource
 
 Intense 16-week software development bootcamp, focusing on teaching best coding practices.
 
-- Focused on OO design in Ruby and JavaScript using Sinatra, Rails and React as frameworks.
+- Focused on OO design in Ruby and JavaScript using Sinatra, Rails and React.
 - TDD approach to building software across RSpec, Capybara and Jasmine. 
 - Building apps using REST principles
 - Team engineering projects following Agile practices.
