@@ -5,7 +5,7 @@
 Junior full-stack developer with twelve years experience in online research, embarking on a new adventure into the tech wold. 
 I combine a strong background in communication and project management, with technical skills and a passion for technology to create code that is clean, efficient and easily maintainable. 
 
-In my previous role, I have successfully managed teams and looked after some of the company's biggest accounts, from market research agencies to consultancies and corporate clients. This has given me exposure to the wider business context which I am combining with the solid development fundamentals gained at Makers to become a better developer.
+In my previous role, I have successfully managed teams and looked after some of the company's biggest accounts, from market research agencies to consultancies and corporate clients. This has given me exposure to the wider business context, which I am combining with the solid development fundamentals gained at Makers to become a better developer.
 
 <a name="skills"></a>
 ## Skills
