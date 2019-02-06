@@ -20,7 +20,7 @@ This has been at the core of my job both as a project manager and as a team lead
 
 #### Problem solving
 
-I strongly believe that we're there is a will, there is a way. I stay focused on the challenge, come up with different action plans, evaluate the pros and cons and use a quick feedback loop to get to the solution that best addresses the issues at hand. The years spent in management have exposed me to several situations where I had to support my team in getting the best outcome, both for the client and the company, when problems arose.
+I strongly believe that we're there is a will, there is a way. I stay focused on the challenge, come up with different action plans, evaluate the pros and cons and use a quick feedback loop to get to the solution that best addresses the issues at hand. The years spent in management have exposed me to a large variety of situations where I had to support my team in getting the best outcome, both for the client and the company, when problems arose. 
 
 #### Dual perspective
 
