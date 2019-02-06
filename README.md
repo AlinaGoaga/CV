@@ -5,14 +5,14 @@
 Junior full-stack developer with twelve years experience in online research, embarking on a new adventure into the tech wold. 
 I combine a strong background in communication and project management, with technical skills and a passion for technology to create code that is clean, efficient and easily maintainable. 
 
-In the previous positions I held, I have succesfully managed teams and looked after some of the company's biggest accounts, from market research agencies to consultancies and corporate clients. This has given me exposure to the wider business context which I am combining with the solid development fundamentals gained at Makers to become a better developer.
+In my previous role, I have successfully managed teams and looked after some of the company's biggest accounts, from market research agencies to consultancies and corporate clients. This has given me exposure to the wider business context which I am combining with the solid development fundamentals gained at Makers to become a better developer.
 
 <a name="skills"></a>
 ## Skills
 
 #### Fast, independent learner
 
-I am a quick, logical and systematic learner, and my technical skillset has been growing exponentially since joining Makers. During the first 8 weeks at Makers Academy, I was able to strengthen my Ruby and JavaScript programming abilities to the point where in week 9 I felt comfortable creating a Facebook clone with React as frontend using a Rails API for the backend. I've been exposed to multiple tools from testing frameworks like Rspec and Jasmine to continuous integration with Travis CI and deployment to production on Heroku. Every week we've been exposed to new challenges whether it was building my own testing framework or trying to create a single page app whilst having no prior knowledge of JavaScript. Throughout these I have continued to be resourceful and deliver on the recruirements whilst strying to follow SOLID principles.
+I am a quick, logical and systematic learner, and my technical skill set has been growing exponentially since joining Makers. During the first 8 weeks at Makers Academy, I was able to strengthen my Ruby and JavaScript programming abilities to the point where in week 9 I felt comfortable creating a Facebook clone with React as frontend using a Rails API for the backend. I've been exposed to multiple tools from testing frameworks like Rspec and Jasmine to continuous integration with Travis CI and deployment to production on Heroku. Every week we've been exposed to new challenges whether it was building my own testing framework or trying to create a single page app whilst having no prior knowledge of JavaScript. Throughout these I have continued to be resourceful and deliver on the requirements whilst striving to follow SOLID principles.
 
 #### Communication
 
@@ -24,7 +24,7 @@ I strongly believe that we're there is a will, there is a way. I stay focused on
 
 #### Dual perspective
 
-As a project manager, I worked closely with technical teams so had to find the balance between staying on budget and being on time, whilst at the same time understanding my colleagues' point of view, the complexity of the technical challenges they faced and being able to translate that back to the client and negociate on specifications.
+As a project manager, I worked closely with technical teams so had to find the balance between staying on budget and being on time, whilst at the same time understanding the complexity of the technical challenges scripting teams faced and being able to translate that back to the client and negotiate on specifications.
 
 
 <a name="projects"></a>
@@ -33,9 +33,9 @@ As a project manager, I worked closely with technical teams so had to find the b
 |Project | Description | Tech Used | 
 |--------|-------------|-----------|
 |[MakersBNB](https://github.com/AlinaGoaga/MakersBNB)| AirBNB clone| Sinatra, Rspec, Capybara, Bootstrap
-|[News App](https://github.com/AlinaGoaga/NewsSummary)| Single Page App using the Guardian and Aylien APIs to display headlines and summarize articles| HTML, Boostrap, Vanilla Javascript, [custom built framework](https://github.com/AlinaGoaga/JS_TestingFramework).
+|[News App](https://github.com/AlinaGoaga/NewsSummary)| Single Page App using the Guardian and Aylien APIs to display headlines and summarize articles| HTML, Bootstrap, Vanilla Javascript, [custom built framework](https://github.com/AlinaGoaga/JS_TestingFramework).
 |[Chitter](https://github.com/AlinaGoaga/Chitter_TwitterClone)| Twitter clone| Rails, HTML, Bootstrap, Devise, Simple Form, PostgreSQL
-|[Bowling Scorecard](https://github.com/AlinaGoaga/BowlingScorecard)| App which calculates the score for a bowling game (including spares and strikes)| Vanilla Javascript, Jasmine
+|[Bowling Scorecard](https://github.com/AlinaGoaga/BowlingScorecard)| Bowling game score calculator (including spares and strikes)| Vanilla Javascript, Jasmine
 
 <a name="education"></a>
 ## Education
@@ -71,7 +71,7 @@ Academy of Economic Studies, Bucharest (2005 to 2008)
 **Research Now** (June 2011 to November 2018)    
 
 - Manager, Client Services:
-Line management of operations team with 8 members in different locations, ensuring high quality delivery of online market research studies. Responsible for delivery on accounts worth around 2 million GBP anually.
+Line management of operations team with 8 members in different locations, ensuring high quality delivery of online market research studies. Responsible for delivery on accounts worth around 2 million GBP annually.
 
 - Project Manager:
 Led a mix of projects for a large variety of clients: from market research agencies and consultancies to media agencies and one-man-bands whilst keeping client satisfaction high and ensuring resources are used efficiently. 
@@ -95,5 +95,5 @@ In charge of data processing and logical control of questionnaires for online re
 ## Personal interests
 
 - Trekking: from the majestic peaks of Nepal to the green landscapes of Hampstead Heath in summer, as long as I'm in nature I'm happy
-- Japan and japanese culture: minimalism, delicious food, amazing tech - need I say more?
-- Aviation: still dreaming of getting that private pilot licence, for now happy to have made it back on solid groud safe and sound after my lessons on a Cessna 
+- Japan and Japanese culture: minimalism, delicious food, amazing tech - need I say more?
+- Aviation: still dreaming of getting that private pilot licence, for now happy to have made it back on solid ground after my lessons on a Cessna 
