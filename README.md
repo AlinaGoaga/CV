@@ -12,7 +12,7 @@ In my previous role, I have successfully managed teams and looked after some of 
 |Project | Description | Tech Used | 
 |--------|-------------|-----------|
 |[AJAX AceBook](https://github.com/AlinaGoaga/AJAX_AceBook_ReactVersion)| Facebook clone - the Rails&React version of [AJAX AceBook - Rails](https://github.com/AlinaGoaga/AJAX-AceBook)| Rails, React, Rspec, Capybara, Bootstrap, Devise, PostgreSQL, Webpacker, Travis, Heroku 
-|[News App](https://github.com/AlinaGoaga/NewsSummary)| Single Page App using the Guardian and Aylien APIs to display headlines and summarize articles| Vanilla Javascript, Boostrap,[custom built framework](https://github.com/AlinaGoaga/JS_TestingFramework).
+|[News App](https://github.com/AlinaGoaga/NewsSummary)| Single Page App using the Guardian and Aylien APIs to display headlines and summarize articles| Vanilla Javascript, Boostrap, [custom built framework](https://github.com/AlinaGoaga/JS_TestingFramework).
 |[Chitter](https://github.com/AlinaGoaga/Chitter_TwitterClone)| Twitter clone| Rails, Bootstrap, Devise, Simple Form, PostgreSQL
 |[Bowling Scorecard](https://github.com/AlinaGoaga/BowlingScorecard)| Bowling game score calculator (including spares and strikes)| Vanilla Javascript, Jasmine
 
