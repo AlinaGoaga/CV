@@ -76,7 +76,7 @@ Academy of Economic Studies, Bucharest (2005 to 2008)
 **Research Now** (June 2011 to November 2018)    
 
 - Manager, Client Services:
-Line management of operations team with 8 members in different locations, ensuring high quality delivery of online market research studies. Responsible for delivery on accounts worth around 2 million GBP annually.
+Line management of operations team with 8 members in different locations, ensuring high quality delivery of online market research studies. Responsible for delivery on accounts worth around 2.5 million GBP annually.
 
 - Project Manager:
 Led a mix of projects for a large variety of clients: from market research agencies and consultancies to media agencies and one-man-bands whilst keeping client satisfaction high and ensuring resources are used efficiently. 
