@@ -62,8 +62,7 @@ Highly selective 16-week intensive development bootcamp teaching:
 Academy of Economic Studies, Bucharest (2008 to 2010) 
 
 - Bachelor's Degree in Marketing (Graduated as Valedictorian)
-Academy of Economic Studies, Bucharest (2005 to 2008) 
-* * Included: maths, statistics and econometrics
+Academy of Economic Studies, Bucharest (2005 to 2008). Included: maths, statistics and econometrics.
 
 #### Any other qualifications
 
