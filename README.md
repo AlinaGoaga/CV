@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Languages](#languages) | [Personal interests](#personal_interests) | [Linkedin profile](https://www.linkedin.com/in/alina-goaga-2a6618104/) | [Codewars profile](https://www.codewars.com/users/AlinaGoaga) 
 
-Junior full-stack developer with twelve years experience project management. After several months of exploring and self-teaching, I have decided to embark on a new adventure into the tech wold. I combine a strong background in communication and client focus, with technical skills and a passion for technology to create code that is clean, efficient and easily maintainable.
+Junior full-stack developer with twelve years experience project management working with technical teams. After several months of exploring and self-teaching, I have decided to embark on a new adventure into the tech wold. I combine a strong background in communication and client focus, with technical skills and a passion for technology to create code that is clean, efficient and easily maintainable.
 
 In my previous role, I have successfully managed teams and looked after some of the company's biggest accounts, from market research agencies to consultancies and corporate clients. This has given me exposure to the wider business context, which I am combining with the solid development fundamentals gained at Makers to become a better developer.
 
